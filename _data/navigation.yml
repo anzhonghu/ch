@@ -3,7 +3,7 @@
 main:
 
   - title: "项目成果展示"
-    url: /projects/    
+    url: /posts/    
 
   - title: "教学"
     url: /teaching/    
