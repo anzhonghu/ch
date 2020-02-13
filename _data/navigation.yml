@@ -2,13 +2,10 @@
 
 main:
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Projects"
+  - title: "项目成果展示"
     url: /projects/    
 
-  - title: "Teaching"
+  - title: "教学"
     url: /teaching/    
 
     
