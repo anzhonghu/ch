@@ -1,6 +1,6 @@
 ---
 title: "项目成果"
-excerpt: "主持的国家自然科学基金“大规模MIMO无线通信系统中传输优化理论和技术研究”的研究成果-1<br/><img src='/images/2019CCET.png'>"
+excerpt: "主持的国家自然科学基金“大规模MIMO无线通信系统中传输优化理论和技术研究”的研究成果-1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 ## 毫米波用户分组干扰降低算法
