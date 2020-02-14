@@ -16,4 +16,6 @@ redirect_from:
 
 
 
-<span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>人次</span>
+<script src="https://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-0.1.1.js"></script>
+
+<span data-hk-page="current"> - </span>

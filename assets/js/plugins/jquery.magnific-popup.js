@@ -1703,8 +1703,8 @@ $.magnificPopup.registerModule('gallery', {
 		navigateByImgClick: true,
 		arrows: true,
 
-		tPrev: 'Previous (Left arrow key)',
-		tNext: 'Next (Right arrow key)',
+		tPrev: '上一篇 (Left arrow key)',
+		tNext: '下一篇 (Right arrow key)',
 		tCounter: '%curr% of %total%'
 	},
 
