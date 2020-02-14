@@ -2,8 +2,8 @@
 
 main:
 
-  - title: "项目成果展示"
-    url: /portfolio/    
+  - title: "项目及成果展示"
+    url: /projects/    
 
   - title: "教学"
     url: /teaching/    
