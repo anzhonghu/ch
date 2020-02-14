@@ -3,8 +3,8 @@ title: "指导工作"
 collection: teaching
 type: "指导"
 permalink: /teaching/2014-spring-teaching-2
-#venue: "杭电"
-#date: 2014-09-01 至 2020-02-12
+venue: "杭电"
+date: 2020-02-12
 location: "中国杭州"
 ---
 2 个本科班级班主任, 2 个本科研究小组指导,   3 个研究生指导
