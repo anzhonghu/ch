@@ -1,7 +1,7 @@
 ---
 title: "指导工作"
 collection: teaching
-type: "Instrction"
+type: "指导"
 permalink: /teaching/2014-spring-teaching-2
 venue: "杭电"
 date: 2014-09-01 至 2020-02-12
