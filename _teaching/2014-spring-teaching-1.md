@@ -3,11 +3,11 @@ title: "教学工作"
 collection: teaching
 type: "本科教学"
 permalink: /teaching/2014-spring-teaching-1
-venue: "杭电"
-date: 2014-09-01 至 2020-02-12
+#venue: "杭电"
+#date: 2014-09-01 至 2020-02-12
 location: "中国杭州"
 ---
-5年教学，8 门课程
+8 门课程
 
 ### 课程表格
 
