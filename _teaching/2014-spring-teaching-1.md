@@ -1,20 +1,34 @@
 ---
-title: "Teaching experience 1"
+title: "教学工作"
 collection: teaching
-type: "Undergraduate course"
+type: "本科教学"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "杭电"
+date: 2014-09-01 至 2020-02-12
+location: "中国杭州"
 ---
+5年教学，8 门课程
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### Table
 
-Heading 1
-======
+| 简写                 |     课程  |       课时  |
+| ---------------- | ------------------------------------|--------|
+| [PC](#)        | 通信原理          |      64|
+| [AET](#)       | 模拟电子技术     |      48|
+| [CC](#)       | 通信电路              |      48|
+| [EPC](#)       | 通信原理实验 |   32|
+| [ECC](#)      | 通信电路实验 |         32|
+| [EDSP](#)      | 数字信号处理实验 |      32|
+| [CDCS](#)      | 通信系统课程设计 |   40-70|
+| [EC](#)      | 通信技术基础 |                      24|
+| [SUT](#)      | 毕业设计 |           16|
 
-Heading 2
-======
+### Table
 
-Heading 3
-======
+| 学年            | 课时  |     课程                                                     |
+| --------         | ------ | ------------------------------------------------------------ |
+| 2014-09 至 2015-07  | 82   |[ECC](#) [CDCS](#)|
+| 2015-09 至 2016-07   | 235   |[AET](#) [CC](#) [ECC](#)X2 [CDCS](#) [SUT](#) |
+| 2016-09 至 2017-07   | 371  |[AET](#) [CC](#) [EC](#)X2 [ECC](#) [CDCS](#) [SUT](#)X8|
+| 2017-09 至 2018-07   | 426   |[AET](#) [CC](#) [EC](#)X2 [CDCS](#) [SUT](#)X12 [EDSP](#)  |
+| 2018-09 至 2019-07   | 264   |[AET](#) [CC](#) [EC](#) [EPC](#) [ECC](#)X2 [CDCS](#) [SUT](#)X4 [PC](#) |

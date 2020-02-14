@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "项目"
+excerpt: "主持4个项目，参与3个项目"
 collection: portfolio
 ---
+### Table
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+| 年限                  |   名称  | 机构               | 金额（万） | 角色 |
+| ---------------- | ------------------|----|--------------|--------|
+| 2020-2022      | 模数混合处理模式下毫米波大规模MIMO系统的信道估计技术研究 | 浙江省自然科学基金 | 9 | 主持 |
+|  2019-2022     | 基于移动卫星星座系统的海洋通信关键技术研究 | 国家自然科学基金 | 198 | 参与 |
+| 2017-2019    | 大规模MIMO无线通信系统中传输优化理论和技术研究 | 国家自然科学基金 | 19 | 主持 |
+| 2017-2020     | 基于海量数据学习的动力电池智能成组系统 | 国家自然科学基金 | 210 | 参与 |
+| 2016-2018      | 大规模MIMO系统中的三维波束成形技术研究 | 浙江省自然科学基金 | 5 | 主持 |
+| 2015-2018     | 块衰落信道上根检验全分集广义稀疏图LDPC码构造研究 | 浙江省自然科学基金 | 10 | 参与 |
+| 2014-2016      | 大规模MIMO系统中基于波达角的小区间干扰抑制技术研究 | 杭电 | 4 | 主持 |
+
