@@ -1,9 +1,13 @@
 ---
 title: "项目成果"
-excerpt: "主持的国家自然科学基金“大规模MIMO无线通信系统中传输优化理论和技术研究”的研究成果-1"
+excerpt: "主持的国家自然科学基金“大规模MIMO无线通信系统中传输优化理论和技术研究”的研究成果-2"
 collection: portfolio
 ---
 ## 毫米波用户分组干扰降低算法
+
+###### 作者：丁亚迪
+
+###### 日期：2020-01-10
 
 本研究组在2019 2rd International Conference on Computer and Communication Engineering Technology（http://www.ccet.org/）发表论文，其核心内容如下：
 
