@@ -13,4 +13,6 @@ redirect_from:
 
 
 
+[英文主页](https://anzhonghu.github.io/)
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fanzhonghu%2Fch)
