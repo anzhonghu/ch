@@ -83,10 +83,10 @@ author:
   name             : "胡安中"
   avatar           : "profile.png"
   bio              : "副教授"
-  location         : "中国杭州"
-  employer         :
+  location         : "杭州"
+  employer         :"杭州电子科技大学“
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=D7KEVpMAAAAJ"
+  googlescholar    :# "https://scholar.google.com/citations?user=D7KEVpMAAAAJ"
   email            : "huaz@hdu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Anzhong_Hu"
   uri              :

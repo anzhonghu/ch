@@ -2,12 +2,12 @@
 title: " Channel estimation for interference mitigation in millimeter-wave multi-cell beamspace MIMO systems"
 collection: publications
 permalink: /publication/2017-08-01-paper-title-number-5
-excerpt: 'This paper deals with the inter-cell interference (ICI) mitigation in the channel estimation process of millimeter-wave multi-cell beamspace multiple-input multiple-output systems. The in-cell channels and the ICI channels are estimated together and distinguished with the beam information. In addition, the beamspace channels are estimated with small error by utilizing the asymptotic property of the beamspace channels.'
+excerpt: '本文研究了多小区毫米波大规模MIMO系统中信道估计技术。通过同时估计小区内信道和干扰信道并利用波束信息区分，可以有效抑制信道估计中的干扰。'
 date: 2017-08-01
 venue: 'J. Commun.  Networks'
 paperurl: 'https://github.com/anzhonghu/Channel-estimation-for-interference-mitigation-in-millimeter-wave-multi-cell-beamspace-MIMO-systems'
 citation: 'A. Hu,  " Channel estimation for interference mitigation in millimeter-wave multi-cell beamspace MIMO systems," <i>J. Commun.  Networks</i>, vol. 19, no. 4, pp. 371-382, Aug. 2017.'
 ---
-This paper deals with the inter-cell interference (ICI) mitigation in the channel estimation process of millimeter-wave multi-cell beamspace multiple-input multiple-output systems. The in-cell channels and the ICI channels are estimated together and distinguished with the beam information. In addition, the beamspace channels are estimated with small error by utilizing the asymptotic property of the beamspace channels.
+本文研究了多小区毫米波大规模MIMO系统中信道估计技术。通过同时估计小区内信道和干扰信道并利用波束信息区分，可以有效抑制信道估计中的干扰。
 
-[Download paper here](https://github.com/anzhonghu/Channel-estimation-for-interference-mitigation-in-millimeter-wave-multi-cell-beamspace-MIMO-systems)
+[下载链接](https://github.com/anzhonghu/Channel-estimation-for-interference-mitigation-in-millimeter-wave-multi-cell-beamspace-MIMO-systems)
