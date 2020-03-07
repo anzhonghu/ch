@@ -53,7 +53,8 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>引用: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p>引用: {{ post.citation }}</p>
+      <p>代码和原文链接: <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>引用: {{ post.citation }} </p>
     {% elsif post.paperurl %}
