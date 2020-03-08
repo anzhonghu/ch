@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "专利"
+excerpt: "6项专利"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### 专利表格
+
+| 申请年份                 |   名称  | 状态               | 排名 |
+| ---------------- | ------------------|----|----------------------|
+| 2019      | 模一种基于分组优化的混合波束成形方法 | 受理 | 1/2 |
+| 2018    | 一种基于最大化最小相位差值的混合波束成形方法 | 公布 | 1/2 |
+| 2017    | 毫米波多天线系统中基于加权容量增速的功率分配方法 | 公布 | 1/1 |
+| 2016     | 毫米波多小区多天线系统中基于波束空间的信道估计方法 | 授权| 1/1 |
