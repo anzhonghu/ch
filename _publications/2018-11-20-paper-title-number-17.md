@@ -9,5 +9,3 @@ paperurl: 'https://github.com/anzhonghu/Maximizing-minimum-phase-difference-base
 citation: 'Y. Ding and A. Hu,  "Maximizing minimum phase difference based hybrid beamforming for multiuser mmWave massive MIMO systems," in <i>Proc. 2018 IEEE 4th Int. Conf. Comput. Commun. (ICCC)</i>, Chengdu, China, pp. 1-5, Nov. 2018.'
 ---
 针对毫米波多用户大规模MIMO系统，本文提出一种基于最大化最小相位差的混合波束成形算法。
-
-[下载链接](https://github.com/anzhonghu/Maximizing-minimum-phase-difference-based-hybrid-beamforming-for-multiuser-mmWave-massive-MIMO-syste)

@@ -9,5 +9,3 @@ paperurl: 'https://github.com/anzhonghu/Antenna-tilt-design-for-millimeter-wave-
 citation: 'A. Hu,  "  Antenna tilt design for millimeter-wave beamspace MIMO systems," <i>Wireless Personal Commun.</i>, vol. 94, no. 3, pp. 1701-1713, Jun. 2017.'
 ---
 本文提出一种应用于毫米波波束空间MIMO系统的联合设计机械倾角和电子倾角的方法。
-
-[下载链接](https://github.com/anzhonghu/Antenna-tilt-design-for-millimeter-wave-beamspace-MIMO-systems)
