@@ -13,6 +13,6 @@ redirect_from:
 
 ## 更多信息
 
-[英文主页](https://anzhonghu.github.io/)，[杭电地址](https://j.map.baidu.com/80/1Uw)，[个人简历](https://anzhonghu.github.io/ch/files/个人简历---haz.pdf) .
+[英文主页](https://anzhonghu.github.io/)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fanzhonghu%2Fch)
