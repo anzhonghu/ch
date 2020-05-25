@@ -3,33 +3,10 @@
 main:
 
   - title: "项目及成果展示"
-    url: /projects/    
+    url: /projects/
 
   - title: "教学与指导"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "论文"
     url: /publications/
-
-  - title: "专利"
-    url: /portfolio/
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
