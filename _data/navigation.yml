@@ -2,11 +2,5 @@
 
 main:
 
-  - title: "项目及成果展示"
-    url: /projects/
-
-  - title: "教学与指导"
-    url: /teaching/
-
   - title: "论文"
     url: /publications/
